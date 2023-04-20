@@ -1,4 +1,5 @@
 # How to install HashiCorp Vault on Debian/Ubuntu
+The training was designed by Kamil Ciaś, kamil.cias@goto.systems
 
 ### Aktualizacja i instalacja pakietu GPG
 ```shell

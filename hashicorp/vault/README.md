@@ -11,6 +11,6 @@ The training was designed by Kamil Ciaś, kamil.cias@goto.systems
 * Module 5, Secrets engines;
 * Module 6, Policies;
 * Module 7, The First secrets;
-* Module 8, API;
+* [Module 8, API;](MOD08.md)
 * Module 9, High Availability Mode (HA);
 * Module 10, Production Hardening;
